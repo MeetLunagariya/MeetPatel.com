@@ -1,2 +1,2 @@
-# MeetPatel.github.io
+# MeetPatel.com
 Meet's portfolio
